@@ -1,0 +1,4 @@
+.env $ git rm --cached .env rm .env $ git commit -m start ignoring .env file
+.env
+.env
+.env
